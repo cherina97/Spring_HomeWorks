@@ -1,4 +1,4 @@
-package com.example.SpringExample;
+package com.example.SpringExample.SpringCore;
 
 public class Student {
     private int id;

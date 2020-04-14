@@ -1,4 +1,4 @@
-package com.example.SpringExample;
+package com.example.SpringExample.SpringCore;
 
 import java.util.ArrayList;
 import java.util.List;
